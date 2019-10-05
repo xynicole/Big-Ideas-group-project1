@@ -1,7 +1,7 @@
 # Big-Ideas-group-project1
 Group members: 
-Jingxuan Zhang 
-Xinyi (Nicole) Huang
+_Jingxuan Zhang 
+_Xinyi (Nicole) Huang
 
 This python program is for people to check what letter of an index in their name. 
 
