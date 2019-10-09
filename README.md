@@ -17,9 +17,9 @@ cat LetterIndex.ipynb87
 
 ## Support and Community
 
-If you have any question about this project, send email to:
-1.xih82@pitt.edu Xinyi Huang
-2.jiz176@pitt.edu Jingxuan Zhang
+If you have any question about this project, send email to:  
+1.xih82@pitt.edu Xinyi Huang  
+2.jiz176@pitt.edu Jingxuan Zhang  
 
 ## Group Members
 1. Jingxuan Zhang 
