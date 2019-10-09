@@ -1,12 +1,12 @@
-Code of Conduct
+# Code of Conduct
 
 All participants of COMP0110-Project1 are expected to abide by our Code of Conduct, both online and during in-person events that are hosted and/or associated with COMP0110-Project1.
 
-The Pledge
+## The Pledge
 
 In the interest of fostering an open and welcoming environment, we pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-The Standards
+## The Standards
 
 Examples of behaviour that contributes to creating a positive environment include:
 
@@ -21,7 +21,8 @@ Not being respectful to reasonable communication boundaries, such as 'leave me a
 Swearing, usage of strong or disturbing language
 Starting and/or participating in arguments related to politics
 Other conduct which you know could reasonably be considered inappropriate in a professional setting.
-Enforcement
+
+## Enforcement
 
 Violations of the Code of Conduct may be reported by sending an email to jiz176@pitt.edu. All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
 
