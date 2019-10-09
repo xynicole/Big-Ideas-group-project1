@@ -12,7 +12,7 @@ Python Version >= 3.0
 
 git clone https://github.com/xynicole/Big-Ideas-group-project1.git
 cd Big-Ideas-group-project1
-cat LetterIndex.ipynb
+cat LetterIndex.ipynb87
 
 Group members: 
 1. Jingxuan Zhang 
