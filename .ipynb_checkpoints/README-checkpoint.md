@@ -9,10 +9,11 @@ Basically, it asks the user to enter their name and the index they want to check
 Python Version >= 3.0
 
 ## Installation
-
+```
 git clone https://github.com/xynicole/Big-Ideas-group-project1.git
 cd Big-Ideas-group-project1
 cat LetterIndex.ipynb87
+```
 
 ## Support and Community
 
