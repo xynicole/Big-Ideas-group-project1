@@ -1,0 +1,17 @@
+
+user_input = input("Enter your name: ")
+count = input("Enter the index number: ")
+
+try: 
+    count = int(count)
+except:
+    print ("Please input a integer")
+else:
+    if count<1:
+        raise RuntimeError("The number inputed is too small")
+
+if count > len(user_input):
+    raise RuntimeError("The number inputed is too large")
+
+print("The %d letter in your name is %s"%(count,user_input[count-1]))
+
